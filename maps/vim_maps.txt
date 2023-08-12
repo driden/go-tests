@@ -1,0 +1,56 @@
+
+
+c  <C-Y>       * <Lua 258: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+c  <S-Tab>     * <Lua 265: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+c  <C-E>       * <Lua 266: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+c  <C-Z>       * <Lua 259: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+c  <C-P>       * <Lua 264: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+c  <C-N>       * <Lua 260: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+i  <C-G>       * <Lua 253: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+c  <C-Space>   * <Lua 239: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+i  <C-Space>   * <Lua 250: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+i  <C-F>       * <Lua 248: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+i  <C-D>       * <Lua 243: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+i  <C-P>       * <Lua 241: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+i  <C-N>       * <Lua 7: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+i  <C-L>       * <Lua 197: ~/code/dotfiles/.config/nvim/after/plugin/snippets.lua:17>
+i  <C-J>       * <Lua 53: ~/code/dotfiles/.config/nvim/after/plugin/snippets.lua:11>
+i  <C-G>S        <Plug>ISurround
+i  <C-G>s        <Plug>Isurround
+i  <C-S>         <Plug>Isurround
+i  <Plug>ISurround * <C-R>=<SNR>55_insert(1)<CR>
+i  <Plug>Isurround * <C-R>=<SNR>55_insert()<CR>
+c  <Plug>(TelescopeFuzzyCommandSearch) * <C-\>e "lua require('telescope.builtin').command_history { default_text = [=[" . escape(getcmdline(), '"') . "]=] }"<CR><CR>
+!  <Plug>luasnip-expand-repeat * <Lua 41: ~/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.lua:38>
+!  <Plug>luasnip-delete-check * <Lua 39: ~/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.lua:31>
+i  <Plug>luasnip-jump-prev * <Lua 37: ~/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.lua:24>
+i  <Plug>luasnip-jump-next * <Lua 36: ~/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.lua:21>
+i  <Plug>luasnip-prev-choice * <Lua 35: ~/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.lua:18>
+i  <Plug>luasnip-next-choice * <Lua 25: ~/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.lua:15>
+i  <Plug>luasnip-expand-snippet * <Lua 23: ~/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.lua:12>
+i  <Plug>luasnip-expand-or-jump * <Lua 24: ~/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.lua:9>
+i  <C-W>       * <C-G>u<C-W>
+                 Nvim builtin
+i  <C-U>       * <C-G>u<C-U>
+                 Nvim builtin
+c  <Tab>       * <Lua 240: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+i  <Tab>       * <Lua 165: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+c  <CR>        * <Lua 215: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
+i  <CR>        * <Lua 245: ~/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua/cmp/utils/keymap.lua:127>
+                 cmp.utils.keymap.set_map
