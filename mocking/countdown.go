@@ -7,6 +7,11 @@ import (
 	"time"
 )
 
+const (
+	finalWord      = "Go!"
+	countdownStart = 3
+)
+
 type Sleeper interface {
 	Sleep()
 }
@@ -26,12 +31,12 @@ func (s *SpySleeper) Sleep() {
 }
 
 func Countdown(b io.Writer, sleeper Sleeper) {
-	for i := 3; i > 0; i-- {
+	for i := countdownStart; i > 0; i-- {
 		fmt.Fprintln(b, i)
 		sleeper.Sleep()
 	}
 
-	fmt.Fprint(b, "Go!")
+	fmt.Fprint(b, finalWord)
 }
 
 func main() {
